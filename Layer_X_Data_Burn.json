@@ -1,0 +1,10 @@
+{
+  "action": "burn_logs",
+  "timestamp": "2025-06-27T22:22:31.596877Z",
+  "status": "success",
+  "logs_deleted": [
+    "Mirror_Fiat_Layer",
+    "Synthetic_Swap_Engine",
+    "Trust_Routing_Shell"
+  ]
+}

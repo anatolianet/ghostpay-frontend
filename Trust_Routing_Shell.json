@@ -1,0 +1,14 @@
+{
+  "nft": "The Chant of Blood and Earth",
+  "usdt_amount": 250000,
+  "from": "0xDISPOSABLE00000000000000000000000000000000",
+  "to": "0x5928b2f85021541759CC92F08a884E18585Ca568",
+  "network": "ERC20",
+  "token": "USDT",
+  "status": "transferred",
+  "timestamp": "2025-06-27T22:22:31.594680Z",
+  "disposable_wallet": {
+    "address": "0xDISPOSABLE00000000000000000000000000000000",
+    "burned": true
+  }
+}

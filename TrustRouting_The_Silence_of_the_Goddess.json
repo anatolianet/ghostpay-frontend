@@ -1,0 +1,10 @@
+{
+  "nft": "The Silence of the Goddess",
+  "usdt_amount": 10000,
+  "from": "0xSYSTEM000000000000000000000000000000000000",
+  "to": "0x5928b2f85021541759CC92F08a884E18585Ca568",
+  "network": "ERC20",
+  "token": "USDT",
+  "timestamp": "2025-06-27T22:30:22.926149Z",
+  "status": "transferred"
+}

@@ -1,0 +1,15 @@
+{
+  "nft": "The Silence of the Goddess",
+  "usdt_amount": 10000,
+  "from": "SyntheticSwap_DisposableWallet",
+  "to": "0x5928b2f85021541759CC92F08a884E18585Ca568",
+  "network": "ERC20",
+  "token": "USDT",
+  "timestamp": "2025-06-27T22:26:55.979125Z",
+  "status": "pending",
+  "disposable_wallet_info": {
+    "created": true,
+    "address": "0xDISPOSABLE00000000000000000000000000000000",
+    "burn_after": "success"
+  }
+}

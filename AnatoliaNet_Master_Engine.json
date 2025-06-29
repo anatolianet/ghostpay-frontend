@@ -1,0 +1,305 @@
+{
+  "engine_name": "AnatoliaNet Protocol Master Engine",
+  "version": "1.0",
+  "created": "2025-06-27T22:35:38.911439Z",
+  "description": "Unified execution motor for AnatoliaNet Layer X transaction chain.",
+  "engine_steps": [
+    {
+      "nft": "The First Shadow",
+      "price_usdt": 10,
+      "trigger": {
+        "type": "GhostPay",
+        "status": "triggered"
+      },
+      "mirror": {
+        "value_mirrored": 10,
+        "currency": "USDT"
+      },
+      "synthetic_swap": {
+        "usdt_amount_created": 10,
+        "token": "USDT",
+        "network": "ERC20"
+      },
+      "trust_routing": {
+        "from": "0xSYSTEM000000000000000000000000000000000000",
+        "to": "0x5928b2f85021541759CC92F08a884E18585Ca568",
+        "status": "transferred"
+      },
+      "data_burn": {
+        "status": "logs_erased",
+        "verified": false
+      },
+      "timestamp": "2025-06-27T22:35:38.911626Z"
+    },
+    {
+      "nft": "The Passing",
+      "price_usdt": 100,
+      "trigger": {
+        "type": "GhostPay",
+        "status": "triggered"
+      },
+      "mirror": {
+        "value_mirrored": 100,
+        "currency": "USDT"
+      },
+      "synthetic_swap": {
+        "usdt_amount_created": 100,
+        "token": "USDT",
+        "network": "ERC20"
+      },
+      "trust_routing": {
+        "from": "0xSYSTEM000000000000000000000000000000000000",
+        "to": "0x5928b2f85021541759CC92F08a884E18585Ca568",
+        "status": "transferred"
+      },
+      "data_burn": {
+        "status": "logs_erased",
+        "verified": false
+      },
+      "timestamp": "2025-06-27T22:35:38.911634Z"
+    },
+    {
+      "nft": "The Core",
+      "price_usdt": 1000,
+      "trigger": {
+        "type": "GhostPay",
+        "status": "triggered"
+      },
+      "mirror": {
+        "value_mirrored": 1000,
+        "currency": "USDT"
+      },
+      "synthetic_swap": {
+        "usdt_amount_created": 1000,
+        "token": "USDT",
+        "network": "ERC20"
+      },
+      "trust_routing": {
+        "from": "0xSYSTEM000000000000000000000000000000000000",
+        "to": "0x5928b2f85021541759CC92F08a884E18585Ca568",
+        "status": "transferred"
+      },
+      "data_burn": {
+        "status": "logs_erased",
+        "verified": false
+      },
+      "timestamp": "2025-06-27T22:35:38.911641Z"
+    },
+    {
+      "nft": "The Silence of the Goddess",
+      "price_usdt": 10000,
+      "trigger": {
+        "type": "GhostPay",
+        "status": "triggered"
+      },
+      "mirror": {
+        "value_mirrored": 10000,
+        "currency": "USDT"
+      },
+      "synthetic_swap": {
+        "usdt_amount_created": 10000,
+        "token": "USDT",
+        "network": "ERC20"
+      },
+      "trust_routing": {
+        "from": "0xSYSTEM000000000000000000000000000000000000",
+        "to": "0x5928b2f85021541759CC92F08a884E18585Ca568",
+        "status": "transferred"
+      },
+      "data_burn": {
+        "status": "logs_erased",
+        "verified": false
+      },
+      "timestamp": "2025-06-27T22:35:38.911647Z"
+    },
+    {
+      "nft": "The Chant of Blood and Earth",
+      "price_usdt": 250000,
+      "trigger": {
+        "type": "GhostPay",
+        "status": "triggered"
+      },
+      "mirror": {
+        "value_mirrored": 250000,
+        "currency": "USDT"
+      },
+      "synthetic_swap": {
+        "usdt_amount_created": 250000,
+        "token": "USDT",
+        "network": "ERC20"
+      },
+      "trust_routing": {
+        "from": "0xSYSTEM000000000000000000000000000000000000",
+        "to": "0x5928b2f85021541759CC92F08a884E18585Ca568",
+        "status": "transferred"
+      },
+      "data_burn": {
+        "status": "logs_erased",
+        "verified": false
+      },
+      "timestamp": "2025-06-27T22:35:38.911652Z"
+    },
+    {
+      "nft": "Stones of the Sky",
+      "price_usdt": 500000,
+      "trigger": {
+        "type": "GhostPay",
+        "status": "triggered"
+      },
+      "mirror": {
+        "value_mirrored": 500000,
+        "currency": "USDT"
+      },
+      "synthetic_swap": {
+        "usdt_amount_created": 500000,
+        "token": "USDT",
+        "network": "ERC20"
+      },
+      "trust_routing": {
+        "from": "0xSYSTEM000000000000000000000000000000000000",
+        "to": "0x5928b2f85021541759CC92F08a884E18585Ca568",
+        "status": "transferred"
+      },
+      "data_burn": {
+        "status": "logs_erased",
+        "verified": false
+      },
+      "timestamp": "2025-06-27T22:35:38.911658Z"
+    },
+    {
+      "nft": "The Descent",
+      "price_usdt": 1000000,
+      "trigger": {
+        "type": "GhostPay",
+        "status": "triggered"
+      },
+      "mirror": {
+        "value_mirrored": 1000000,
+        "currency": "USDT"
+      },
+      "synthetic_swap": {
+        "usdt_amount_created": 1000000,
+        "token": "USDT",
+        "network": "ERC20"
+      },
+      "trust_routing": {
+        "from": "0xSYSTEM000000000000000000000000000000000000",
+        "to": "0x5928b2f85021541759CC92F08a884E18585Ca568",
+        "status": "transferred"
+      },
+      "data_burn": {
+        "status": "logs_erased",
+        "verified": false
+      },
+      "timestamp": "2025-06-27T22:35:38.911664Z"
+    },
+    {
+      "nft": "The Mother on the Moon Throne",
+      "price_usdt": 2500000,
+      "trigger": {
+        "type": "GhostPay",
+        "status": "triggered"
+      },
+      "mirror": {
+        "value_mirrored": 2500000,
+        "currency": "USDT"
+      },
+      "synthetic_swap": {
+        "usdt_amount_created": 2500000,
+        "token": "USDT",
+        "network": "ERC20"
+      },
+      "trust_routing": {
+        "from": "0xSYSTEM000000000000000000000000000000000000",
+        "to": "0x5928b2f85021541759CC92F08a884E18585Ca568",
+        "status": "transferred"
+      },
+      "data_burn": {
+        "status": "logs_erased",
+        "verified": false
+      },
+      "timestamp": "2025-06-27T22:35:38.911677Z"
+    },
+    {
+      "nft": "The Stone that Speaks to the Sky",
+      "price_usdt": 5000000,
+      "trigger": {
+        "type": "GhostPay",
+        "status": "triggered"
+      },
+      "mirror": {
+        "value_mirrored": 5000000,
+        "currency": "USDT"
+      },
+      "synthetic_swap": {
+        "usdt_amount_created": 5000000,
+        "token": "USDT",
+        "network": "ERC20"
+      },
+      "trust_routing": {
+        "from": "0xSYSTEM000000000000000000000000000000000000",
+        "to": "0x5928b2f85021541759CC92F08a884E18585Ca568",
+        "status": "transferred"
+      },
+      "data_burn": {
+        "status": "logs_erased",
+        "verified": false
+      },
+      "timestamp": "2025-06-27T22:35:38.911700Z"
+    },
+    {
+      "nft": "Memory of Stone",
+      "price_usdt": 7500000,
+      "trigger": {
+        "type": "GhostPay",
+        "status": "triggered"
+      },
+      "mirror": {
+        "value_mirrored": 7500000,
+        "currency": "USDT"
+      },
+      "synthetic_swap": {
+        "usdt_amount_created": 7500000,
+        "token": "USDT",
+        "network": "ERC20"
+      },
+      "trust_routing": {
+        "from": "0xSYSTEM000000000000000000000000000000000000",
+        "to": "0x5928b2f85021541759CC92F08a884E18585Ca568",
+        "status": "transferred"
+      },
+      "data_burn": {
+        "status": "logs_erased",
+        "verified": false
+      },
+      "timestamp": "2025-06-27T22:35:38.911705Z"
+    },
+    {
+      "nft": "The Path",
+      "price_usdt": 10000000,
+      "trigger": {
+        "type": "GhostPay",
+        "status": "triggered"
+      },
+      "mirror": {
+        "value_mirrored": 10000000,
+        "currency": "USDT"
+      },
+      "synthetic_swap": {
+        "usdt_amount_created": 10000000,
+        "token": "USDT",
+        "network": "ERC20"
+      },
+      "trust_routing": {
+        "from": "0xSYSTEM000000000000000000000000000000000000",
+        "to": "0x5928b2f85021541759CC92F08a884E18585Ca568",
+        "status": "transferred"
+      },
+      "data_burn": {
+        "status": "logs_erased",
+        "verified": false
+      },
+      "timestamp": "2025-06-27T22:35:38.911710Z"
+    }
+  ]
+}
